@@ -1,0 +1,12 @@
+{
+  "name": "es6-import-export",
+  "version": "1.0.0",
+  "description": "mi descripcion",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "xerzie.f",
+  "license": "ISC"
+}
