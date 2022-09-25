@@ -1,3 +1,4 @@
+console.log('============== BLOQUE 3 ==============');
 /**
 * BLOQUE 3 - Solución 1: Uso de callbacks.
 * Un callback es una función que se para como parámetro a otra
